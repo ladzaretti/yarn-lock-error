@@ -12,5 +12,6 @@
 		"enabled": true,
 		"groupName": "yarn",
 		"matchPackageNames": ["yarn"]
-	}]
+	}],
+	"postUpdateOptions":["yarnDedupeHighest","yarnDedupeFewer"]
 }

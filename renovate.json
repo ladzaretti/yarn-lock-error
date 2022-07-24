@@ -13,5 +13,5 @@
 		"groupName": "yarn",
 		"matchPackageNames": ["yarn"]
 	}],
-	"postUpdateOptions":["yarnDedupeHighest","yarnDedupeFewer"]
+	"postUpdateOptions":["yarnDedupeFewer"]
 }

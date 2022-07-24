@@ -12,5 +12,10 @@
 		"enabled": false,
 		"groupName": "everything",
 		"matchPackagePatterns": ["*"]
+	},
+			{
+		"enabled": true,
+		"groupName": "yarn",
+		"matchPackageNames": ["yarn"]
 	}]
 }

@@ -7,5 +7,10 @@
     "constraints": {
       "yarn": "3.2.2"
     }
-  }
+  },
+   "packageRules":[
+      {
+         "enabled":false,
+         "groupName":"everything",
+         "matchPackagePatterns":["*"]
 }

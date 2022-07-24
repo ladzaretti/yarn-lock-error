@@ -2,5 +2,10 @@
   "lockFileMaintenance": {
     "enabled": true,
     "schedule": ["at any time"]
+  },
+  "force": {
+    "constraints": {
+      "yarn": "3.2.0"
+    }
   }
 }
